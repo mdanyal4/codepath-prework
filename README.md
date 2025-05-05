@@ -2,7 +2,7 @@
 
 Submitted by: **Mohammad Danyal**
 
-**Color Changer** is an app that changes to random color with the press of a button. [TODO] 
+**Color Changer** is an app that changes to random color with the press of a button. 
 
 Time spent: **0.3** hours spent in total
 
